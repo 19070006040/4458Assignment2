@@ -10,6 +10,9 @@ The project follows a typical RESTful API architecture using Node.js with Expres
 ### Issues:
 I got helped from the link that my insructor provided. For the ıssues ı used chat-gpt for mainly.
 
-
+### API Gateway:
 https://github.com/19070006040/4458Assignment2/assets/149877163/310d4a57-aa5c-4255-a926-a524dde9b15a
+
+### Presentation:
+https://drive.google.com/file/d/1Zysu5v0fmBpJLr9BinFi4gR-vIdBLLkD/view?usp=sharing
 
